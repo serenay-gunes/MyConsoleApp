@@ -22,6 +22,9 @@ class Program {
         Console.WriteLine(deger);
         Console.WriteLine(a);
 
+
+       int? ogrenciNot = null;   //NULLABLE olabilmesi için değişken tipinin sonuna soru işareti eklenir
+
     }
 
 
