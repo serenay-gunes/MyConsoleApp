@@ -8,3 +8,7 @@ b--; //b'nin değerini 1 azalt
 c =  a++ + b; // a'nın değeri ile b'yi topla, sonucu c'ye aktar, daha sonra a'nın değerini bir arttır (?)
 
 Console.WriteLine($"a = {a}, b = {b}, c = {c}");
+
+a = a & b; //bitsel AND operatörü   0110 & 0010 == 0010 (?)
+
+Console.WriteLine($"a = {a}, b = {b}, c = {c}");
