@@ -1,0 +1,13 @@
+/Users/serenaygunes/MyConsoleApp/u2_degiskenler/bin/Debug/net8.0/u2_degiskenler
+/Users/serenaygunes/MyConsoleApp/u2_degiskenler/bin/Debug/net8.0/u2_degiskenler.deps.json
+/Users/serenaygunes/MyConsoleApp/u2_degiskenler/bin/Debug/net8.0/u2_degiskenler.runtimeconfig.json
+/Users/serenaygunes/MyConsoleApp/u2_degiskenler/bin/Debug/net8.0/u2_degiskenler.dll
+/Users/serenaygunes/MyConsoleApp/u2_degiskenler/bin/Debug/net8.0/u2_degiskenler.pdb
+/Users/serenaygunes/MyConsoleApp/u2_degiskenler/obj/Debug/net8.0/u2_degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serenaygunes/MyConsoleApp/u2_degiskenler/obj/Debug/net8.0/u2_degiskenler.csproj.CoreCompileInputs.cache
+/Users/serenaygunes/MyConsoleApp/u2_degiskenler/obj/Debug/net8.0/u2_degiskenler.sourcelink.json
+/Users/serenaygunes/MyConsoleApp/u2_degiskenler/obj/Debug/net8.0/u2_degiskenler.dll
+/Users/serenaygunes/MyConsoleApp/u2_degiskenler/obj/Debug/net8.0/refint/u2_degiskenler.dll
+/Users/serenaygunes/MyConsoleApp/u2_degiskenler/obj/Debug/net8.0/u2_degiskenler.pdb
+/Users/serenaygunes/MyConsoleApp/u2_degiskenler/obj/Debug/net8.0/u2_degiskenler.genruntimeconfig.cache
+/Users/serenaygunes/MyConsoleApp/u2_degiskenler/obj/Debug/net8.0/ref/u2_degiskenler.dll
