@@ -3,6 +3,7 @@
 
 using System;
 
+namespace MyConsoleApp{
 class Program
 {
     static void Main()
@@ -11,4 +12,5 @@ class Program
 
         // 
     }
+}
 }

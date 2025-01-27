@@ -33,3 +33,5 @@ class Program {
 
 //DİKKAT:
 // Küçük ı ve büyük İ kullanma, sembol olarak sadece alt tire (_), türkçe karakter kullanma
+
+// C#'ta genelde camelCase kullanılır
