@@ -22,3 +22,5 @@ Console.WriteLine($"Kenarları {a} ve {a} olan bir dörtgenin çevresi {cevre}' 
 // dotnet run --project u6_dortgenolusturma
 
 //burada diğer escape (kaçış) karakterlerinden bahsedildi
+
+
