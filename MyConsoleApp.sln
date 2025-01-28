@@ -46,6 +46,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u22_dowhiledongusu", "u22_d
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u23_dongulerhepsi", "u23_dongulerhepsi\u23_dongulerhepsi.csproj", "{8110A4F2-E457-49CF-B234-553F1CDFC899}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u24_sayitahmin", "u24_sayitahmin\u24_sayitahmin.csproj", "{C227342F-E3C2-417E-95E5-C2DA8CE03968}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -140,6 +142,10 @@ Global
 		{8110A4F2-E457-49CF-B234-553F1CDFC899}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8110A4F2-E457-49CF-B234-553F1CDFC899}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8110A4F2-E457-49CF-B234-553F1CDFC899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C227342F-E3C2-417E-95E5-C2DA8CE03968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C227342F-E3C2-417E-95E5-C2DA8CE03968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C227342F-E3C2-417E-95E5-C2DA8CE03968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C227342F-E3C2-417E-95E5-C2DA8CE03968}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
