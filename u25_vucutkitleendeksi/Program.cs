@@ -15,16 +15,20 @@ Console.WriteLine($"Vücut kitle endeksiniz: {vki}");
 
 
 if (vki< 18.5){
+
          Console.WriteLine("Zayıf");
 }
 else if(vki >= 18.5 && vki < 25){
-        Console.WriteLine("Normal");
+
+         Console.WriteLine("Normal");
 }
 else if(vki >= 25 && vki < 30){
-        Console.WriteLine("Kilolu");
+
+         Console.WriteLine("Kilolu");
 }
 else{
-        Console.WriteLine("Aşırı kilolu");
+
+         Console.WriteLine("Aşırı kilolu");
 
 }
 

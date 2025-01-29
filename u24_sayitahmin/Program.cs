@@ -2,6 +2,8 @@
 //bulmaya çalışırken tutulan sayı tahminden büyük mü küçük mü yönlendirilmesi
 //bilemezse sistemde tutulan sayının yazdırılması
 
+
+
 int sayi = new Random().Next(100);
 int hak = 5; //5 hak var
 //Console.WriteLine("Tutulan Sayi:" + sayi);
@@ -35,4 +37,18 @@ do
 
 } while(true);
 
-//oyun bittikten sonra tekrar oynamak ister misin diye sorup devam etsin kullanıcıdan onay alıp E derse Evet devam etsin
+//ÖDEV: oyun bittikten sonra tekrar oynamak ister misin diye sorup devam etsin kullanıcıdan onay alıp E derse Evet devam etsin
+
+
+char cevap;
+
+do{
+    //oyun kodları buraya gelecek
+
+    Console.WriteLine("Devam etmek ister misiniz?" ());
+     cevap = Convert.ToChar(Console.ReadLine())
+
+}
+while(cevap == 'E' || cevap == 'e');
+
+//uygulama sona erdi
