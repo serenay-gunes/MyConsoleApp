@@ -54,6 +54,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u26_faktoriyelhesabi", "u26
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u27_diziler", "u27_diziler\u27_diziler.csproj", "{13B84ECB-A081-4F69-8214-FA49C0E25DA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u28_diziornek", "u28_diziornek\u28_diziornek.csproj", "{FDF6254E-A2A4-4C84-9CC5-15D98CD43364}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -164,6 +166,10 @@ Global
 		{13B84ECB-A081-4F69-8214-FA49C0E25DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13B84ECB-A081-4F69-8214-FA49C0E25DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13B84ECB-A081-4F69-8214-FA49C0E25DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDF6254E-A2A4-4C84-9CC5-15D98CD43364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF6254E-A2A4-4C84-9CC5-15D98CD43364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF6254E-A2A4-4C84-9CC5-15D98CD43364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF6254E-A2A4-4C84-9CC5-15D98CD43364}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
